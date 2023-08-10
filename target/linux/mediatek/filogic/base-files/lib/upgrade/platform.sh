@@ -190,6 +190,7 @@ platform_do_upgrade() {
 	jcg,q30-pro|\
 	mediatek,mt7981-rfb|\
 	netcore,n60|\
+	konka,komi-a31|\
 	qihoo,360t7|\
 	tplink,tl-xdr4288|\
 	tplink,tl-xdr6086|\
